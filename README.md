@@ -52,3 +52,7 @@
 - 扫码登录失败
   - 问题原因：please bind your wechat account to the appid first
   - 解决方案：先使用0.7版本的进行扫码登陆，登陆成功后，再用0.9的版本打开就直接进入了。
+  
+### 教程网址
+
+[http://wxopen.notedown.cn/?](http://wxopen.notedown.cn/?)
